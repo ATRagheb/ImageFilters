@@ -1,0 +1,60 @@
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.Cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\Ah\Dropbox\Algorithms'13 Materials\PROJECTS\[2] IMAGE FILTERS\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Adaptiv_Median.resources
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Alpha_form.resources
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+D:\College Shit\3rd Year S1\Algorithms\Image filters\[TEMPLATE] ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\obj\Release\ImageFilters.Adaptiv_Median.resources
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\obj\Release\ImageFilters.Alpha_form.resources
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\Abelwahab El-Desoky\Desktop\ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\bin\Release\ZedGraph.dll
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\bin\Release\ZGraphTools.dll
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\bin\Release\ZGraphTools.pdb
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.AssemblyReference.cache
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\obj\Release\ImageFilters.Adaptiv_Median.resources
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\obj\Release\ImageFilters.Alpha_form.resources
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\obj\Release\ImageFilters.csproj.CopyComplete
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\Ali Gheith\Downloads\ImageFilters\ImageFilters\obj\Release\ImageFilters.pdb
